@@ -1,6 +1,8 @@
 ## Rock Paper Scissor with MediaPipe & TensorFlow
 
-This reposity is made by HawkieOne, a student developer of the Arthron team. The Athron project is a project with the goal of prevent hand injuries for gamers with the help of Augmented Reality. This Git repository was made for one of the dev streams. In this repository one can find how to detect the three gesures, rock, paper ans scissor, in the classic game with the same name as the gestures. The base of the repostiry is taken from another open source gi repository. Most of the information below is from that repository (https://github.com/asus4/tf-lite-unity-sample). 
+The author of this repo is HawkieOne, one of the student developers of Arthron. Project Arthron is a health and gaming research project with the goal of preventing hand injuries for gamers with the help of Augmented Reality.
+
+This specific Git repository was made for one of the development streams held for the project's community. In this repo you can learn how to detect the three gestures: rock, paper and scissor, with the use of MediaPipe and TensorFlow. The underlying tech used in this repository comes from the following Git Repo: https://github.com/asus4/tf-lite-unity-sample .
 
 ## Useful links
 
