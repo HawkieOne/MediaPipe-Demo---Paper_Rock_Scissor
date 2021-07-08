@@ -1,3 +1,6 @@
+This reposity if made by HawkieOne, a student developer of the Arthron team. The Athron project is a project with the goal of prevent hand injuries for gamers with the help of Augmented Reality. This Git repository was made for one of the dev streams. In this repository one can find how to detect the three gesures, rock, paper ans scissor, in the classic game with the same name as the gestures. The base of the repostiry is taken from another open source gi repository. Most of the information below is from that repository (https://github.com/asus4/tf-lite-unity-sample). 
+
+
 # TensorFlow Lite for Unity Samples
 
 [![openupm](https://img.shields.io/npm/v/com.github.asus4.tflite?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.github.asus4.tflite/)
@@ -11,6 +14,7 @@ Tested on
 - TensorFlow 2.4.0
 
 Samples
+Only the Hand Tracking sample was used during the dev stream but feel free to test the another ones out too.
 
 - TensorFlow
   - MNIST
@@ -29,17 +33,6 @@ Samples
 - MLKit
   - Blaze Pose (Full body)
 - Meet Segmentation
-
-Included prebuilt libraries
-
-| | iOS | Android | macOS | Ubuntu | Windows |
-|---|:---:|:---:|:---:|:---:|:---:|
-| Core CPU |✅|✅|✅|✅|✅|
-| Metal Delegate |✅| - |✅| - | - |
-| OpenGL Delegate | - |✅| - | - | - |
-| NNAPI Delegate | - |✅| - | - | - |
-
-- All libraries except iOS are targeted 64bit platform: arm64 or x86_64.
 
 ## Install TensorFlow Lite for Unity
 
@@ -79,23 +72,8 @@ adb logcat Unity:V tflite:V "*:S"
 
 ## Show Cases
 
-__MNIST__  
-![Mnist](https://imgur.com/yi2MtCF.gif)
-
-__SSD Object Detection__  
-![SSD](https://imgur.com/Omeatqc.gif)
-
-__DeepLab Semantic Segmentation__  
-![DeepLab](https://imgur.com/tH1Z8NG.gif)
-
-__Style Transfer__  
-![styletransfter](https://i.imgur.com/SOLMjZi.gif)
-
 __Hand Tracking__  
 ![handtracking](https://user-images.githubusercontent.com/357497/89078175-28179780-d384-11ea-8a35-8b48a31aa52d.gif)
-
-__BERT__  
-![BERT](https://user-images.githubusercontent.com/357497/89077837-6496c380-d383-11ea-96f8-a5ae6e61d603.png)
 
 ## License
 
