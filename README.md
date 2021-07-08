@@ -109,6 +109,6 @@ Other Licenses
 
 ## Notes
 
-This git repositry was mad with the purpose of increasing the interest for the Arthron project. The project wants to help pain and hardship for gamers or persons that uses computers a lot. With this we need all the help we can get. We need feedback on what we do, we need people who tell thei friends that we exist and we need people to follow your discord! 
+This git repositry was made with the purpose of increasing the interest for the Arthron project. The project wants to help pain and hardship for gamers or persons that use computers a lot. With this we need all the help we can get. We need feedback on what we do, we need people who tell their friends that we exist and we need people to follow your discord! 
 
 - [Discord Server for Arthron](https://discord.gg/UrRRrZCb)
