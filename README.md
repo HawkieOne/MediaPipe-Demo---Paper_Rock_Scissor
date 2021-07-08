@@ -18,6 +18,7 @@ Tested on
 - TensorFlow 2.4.0
 
 Samples
+
 Only the Hand Tracking sample was used during the dev stream but feel free to test the another ones out too.
 
 - TensorFlow
@@ -64,15 +65,6 @@ Pre-built libraries are included. If you want to build the latest TFLite,
   ```
 
 - To build macOS Metal Delegate on TensorFlow v2.3.0 or later, You need to apply following changes [the issue](https://github.com/tensorflow/tensorflow/issues/41039#issuecomment-664701908)
-
-## TIPS
-
-\[Android\] You can see logs from tflite by filtering with "tflite"  
-
-```bash
-# Filtering logcat only Unity and tflite
-adb logcat Unity:V tflite:V "*:S"
-```
 
 ## Show Cases
 
