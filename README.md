@@ -104,3 +104,9 @@ Other Licenses
 - [TensorFlow](https://github.com/tensorflow/tensorflow/blob/master/LICENSE): Apache License 2.0
 - [MediaPipe](https://github.com/google/mediapipe/blob/master/LICENSE): Apache License 2.0
   - Some MediaPipe C# codes are based on [terryky/tflite_gles_app](https://github.com/terryky/tflite_gles_app)
+
+## Notes
+
+This git repositry was mad with the purpose of increasing the interest for the Arthron project. The project wants to help pain and hardship for gamers or persons that uses computers a lot. With this we need all the help we can get. We need feedback on what we do, we need people who tell thei friends that we exist and we need people to follow your discord! 
+
+- [Discord Server for Arthron](https://discord.gg/UrRRrZCb)
