@@ -4,7 +4,7 @@ This reposity is made by HawkieOne, a student developer of the Arthron team. The
 
 - [Official TFlite Models](https://www.tensorflow.org/lite/examples)
 - [MediaPipe](https://github.com/google/mediapipe)
-- 
+
 # TensorFlow Lite for Unity Samples
 
 [![openupm](https://img.shields.io/npm/v/com.github.asus4.tflite?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.github.asus4.tflite/)
