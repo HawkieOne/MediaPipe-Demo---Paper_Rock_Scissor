@@ -1,4 +1,4 @@
-This reposity if made by HawkieOne, a student developer of the Arthron team. The Athron project is a project with the goal of prevent hand injuries for gamers with the help of Augmented Reality. This Git repository was made for one of the dev streams. In this repository one can find how to detect the three gesures, rock, paper ans scissor, in the classic game with the same name as the gestures. The base of the repostiry is taken from another open source gi repository. Most of the information below is from that repository (https://github.com/asus4/tf-lite-unity-sample). 
+This reposity is made by HawkieOne, a student developer of the Arthron team. The Athron project is a project with the goal of prevent hand injuries for gamers with the help of Augmented Reality. This Git repository was made for one of the dev streams. In this repository one can find how to detect the three gesures, rock, paper ans scissor, in the classic game with the same name as the gestures. The base of the repostiry is taken from another open source gi repository. Most of the information below is from that repository (https://github.com/asus4/tf-lite-unity-sample). 
 
 
 # TensorFlow Lite for Unity Samples
@@ -109,22 +109,7 @@ Other Licenses
 - [MediaPipe](https://github.com/google/mediapipe/blob/master/LICENSE): Apache License 2.0
   - Some MediaPipe C# codes are based on [terryky/tflite_gles_app](https://github.com/terryky/tflite_gles_app)
 
-Model Licenses
-
-📌 : Each TensorFlow Lite model might have a different license. Please check the license of the model you use.
+## Useful links
 
 - [Official TFlite Models](https://www.tensorflow.org/lite/examples)
-  - Bert
-  - SSD
-  - DeepLab Lab
-  - MNIST
-  - Style Transfer
-  - PoseNet
-  - Text classification
-  - Smart Reply
-- [MediaPipe Models](https://github.com/google/mediapipe)
-  - Blaze Pose
-  - Face Mesh
-  - Hand Tracking
-- [Meet Segmentation Model](https://drive.google.com/file/d/1lnP1bRi9CSqQQXUHa13159vLELYDgDu0/view)
-  - Using the modified model from [PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) to remove the custom post-process.
+- [MediaPipe](https://github.com/google/mediapipe)
