@@ -1,6 +1,10 @@
 This reposity is made by HawkieOne, a student developer of the Arthron team. The Athron project is a project with the goal of prevent hand injuries for gamers with the help of Augmented Reality. This Git repository was made for one of the dev streams. In this repository one can find how to detect the three gesures, rock, paper ans scissor, in the classic game with the same name as the gestures. The base of the repostiry is taken from another open source gi repository. Most of the information below is from that repository (https://github.com/asus4/tf-lite-unity-sample). 
 
+## Useful links
 
+- [Official TFlite Models](https://www.tensorflow.org/lite/examples)
+- [MediaPipe](https://github.com/google/mediapipe)
+- 
 # TensorFlow Lite for Unity Samples
 
 [![openupm](https://img.shields.io/npm/v/com.github.asus4.tflite?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.github.asus4.tflite/)
@@ -108,8 +112,3 @@ Other Licenses
 - [TensorFlow](https://github.com/tensorflow/tensorflow/blob/master/LICENSE): Apache License 2.0
 - [MediaPipe](https://github.com/google/mediapipe/blob/master/LICENSE): Apache License 2.0
   - Some MediaPipe C# codes are based on [terryky/tflite_gles_app](https://github.com/terryky/tflite_gles_app)
-
-## Useful links
-
-- [Official TFlite Models](https://www.tensorflow.org/lite/examples)
-- [MediaPipe](https://github.com/google/mediapipe)
